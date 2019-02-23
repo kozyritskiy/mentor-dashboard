@@ -1,0 +1,15 @@
+.checked {
+    background-color: rgb(217, 234, 211);
+}
+
+.todo {
+    background-color: rgb(204, 204, 204);
+}
+
+.in-progress {
+    background-color: rgb(255, 242, 204);
+}
+
+.checking {
+    background-color: rgb(234, 153, 153);
+}
